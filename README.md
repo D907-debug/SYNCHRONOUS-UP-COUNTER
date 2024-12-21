@@ -44,8 +44,8 @@ Step 6: Open in RTL viewers to get RTL diagram output
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by:K.Dilli Babu
-RegisterNumber:24900561
+Developed by:G.aravind
+RegisterNumber:24003742
 */
 ~~~
 module SYNCHRONOUS_UP_COUNTER(clk, rst, q);
